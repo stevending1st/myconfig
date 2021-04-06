@@ -49,6 +49,14 @@ nvs ls
 nvs use 12
 ```
 
+```PowerShell
+# show all npm version
+npm view npm versions
+
+# updata npm
+npm i -g npm@<versions code>
+```
+
 ### help
 ```PowerShell
 nvs --help

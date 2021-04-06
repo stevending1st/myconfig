@@ -1,1 +1,4 @@
 # myconfig
+
+### nvs
+node
